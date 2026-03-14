@@ -35,7 +35,7 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soundarya196&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soundarya196&show_icons=true&theme=tokyonight&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundarya196&layout=compact&theme=tokyonight&langs_count=8"/>
 
